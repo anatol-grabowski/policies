@@ -21,4 +21,4 @@ This privacy policy ("Privacy Policy") outlines the information collection, use,
 Changes to this Privacy Policy
 The Publisher reserves the right to update or modify this Privacy Policy at any time. Any changes will be effective upon posting the revised Privacy Policy. Your continued use of the Software after any modifications to the Privacy Policy constitutes your acceptance of those changes.
 
-Date of Last Revision: 2023-jun-19
+Date of Last Revision: **2023-jun-19**
