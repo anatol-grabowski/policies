@@ -1,6 +1,6 @@
 # Terms of Service
 
-These terms of service ("Terms") govern your use of the software ("the Software") developed and published by Anatol Grabowski ("the Publisher"). By installing and using the Software, you agree to these Terms. If you do not agree with any part of these Terms, please refrain from using the Software.
+These terms of service ("Terms") govern your use of any software ("the Software") that references these Terms, that is developed and published by any publisher ("the Publisher"). By installing and using the Software, you agree to these Terms. If you do not agree with any part of these Terms, please refrain from using the Software.
 
 ## License
 - a. The Publisher grants you a non-exclusive, non-transferable, revocable license to use the Software solely for your personal or business use, in accordance with these Terms.
