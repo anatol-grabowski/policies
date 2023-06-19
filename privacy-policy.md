@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy outlines the information collection, use, and protection practices for any Software that references this Privacy Policy. This Privacy Policy applies to all users of the Software. By using the Software, you acknowledge that you have read, understood, and agreed to the practices described in this Privacy Policy.
+This privacy policy ("Privacy Policy") outlines the information collection, use, and protection practices for any software ("the Software") that references this Privacy Policy, that is developed and published by any publisher ("the Publisher"). This Privacy Policy applies to all users of the Software. By using the Software, you acknowledge that you have read, understood, and agreed to the practices described in this Privacy Policy.
 
 ## Information Collection
 - a. The Software does not collect any personally identifiable information ("PII") from its users.
