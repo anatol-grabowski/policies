@@ -14,7 +14,7 @@ This privacy policy ("Privacy Policy") outlines the information collection, use,
 - a. The Publisher takes reasonable measures to protect the Software and the information within it from unauthorized access, use, or disclosure.
 - b. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure, and the Publisher cannot guarantee absolute security.
 
-## Third-Party Services:
+## Third-Party Services
 - a. The Software may integrate with or link to third-party services or websites. This Privacy Policy does not apply to the practices of third parties, and the Publisher is not responsible for the privacy policies or content of such third parties.
 - b. It is recommended to review the privacy policies of any third-party services or websites before using them in conjunction with the Software.
 
